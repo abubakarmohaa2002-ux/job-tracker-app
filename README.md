@@ -94,9 +94,3 @@ npm run start --prefix backend
 
 ---
 
-## 📄 License
-This project is licensed under the ISC License.
-
-## 👤 Author
-**BAKAR ABUBAKAR MOHAMMED**
-- GitHub: [@abubakarmohaa2002-ux](https://github.com/abubakarmohaa2002-ux)
